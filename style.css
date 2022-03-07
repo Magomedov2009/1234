@@ -1,0 +1,23 @@
+header;h1;{
+    font-color: #6B8E23	
+}
+
+h1{
+    font-size: 3rem;
+}
+
+body{
+    color:white;
+}
+
+p{
+    background-color: #808000			;
+    font-family:URW Chancery L, cursive ;
+}
+.text {
+    border: 7px solid rgb(255, 255, 255);
+}
+
+a{
+    color: white
+}
